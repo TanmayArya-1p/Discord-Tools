@@ -1,3 +1,7 @@
+enitre thing is deprecated
+web scraping must be the dumbest implementation of user replication
+will try to update it soon
+
 # Note : DISCORD-TOOLS BREAKS DISCORD TOS AS A SELF-BOT AND CAN LEAD TO A POTENTIAL BAN IF ABUSED. USE FOR ONLY EXPERIMENTAL PURPOSES AT YOUR OWN RISK.
 
 ***
